@@ -1,6 +1,6 @@
 ## 1. System Overview
 
-The JavaScript CompilerVisualizer is a web-based tool that allows users to input JavaScript code, visualize the compilation process, and see the resulting output. The system will break down the compilation stages and provide a step-by-step visualization of how the code is transformed.
+The Compiler Visualizer is a web-based tool that allows users to input JavaScript code, visualize the compilation process, and see the resulting output. The system will break down the compilation stages and provide a step-by-step visualization of how the code is transformed.
 
 ## 2. Key Components
 
